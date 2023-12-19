@@ -1,0 +1,11 @@
+node_modules
+dist
+build
+out
+npm-debug.log
+yarn-error.log
+package-lock.json
+.idea
+.env
+.vscode
+node_modules
